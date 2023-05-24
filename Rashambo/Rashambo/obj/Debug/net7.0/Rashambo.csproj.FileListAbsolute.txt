@@ -1,0 +1,15 @@
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.csproj.AssemblyReference.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.AssemblyInfoInputs.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.AssemblyInfo.cs
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.csproj.CoreCompileInputs.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\bin\Debug\net7.0\Rashambo.exe
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\bin\Debug\net7.0\Rashambo.deps.json
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\bin\Debug\net7.0\Rashambo.runtimeconfig.json
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\bin\Debug\net7.0\Rashambo.dll
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\bin\Debug\net7.0\Rashambo.pdb
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.dll
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\refint\Rashambo.dll
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.pdb
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\Rashambo.genruntimeconfig.cache
+C:\Users\Jerem\Desktop\Sierra\Coding\C#\Roshambo\Rashambo\Rashambo\obj\Debug\net7.0\ref\Rashambo.dll
